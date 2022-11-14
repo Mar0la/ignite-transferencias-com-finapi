@@ -12,10 +12,6 @@
   <a href="https://app.rocketseat.com.br/me/matheus-marins">
     <img alt="Made by Matheus Marins" src="https://img.shields.io/badge/mand%20by-matheus%20marins-darkgreen">
   </a>
-  <a href="https://github.com/rocketseat-education/ignite-template-database-queries/stargazers">
-      <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat-education/ignite-template-database-queries?style=social">
-    </a>
-  </p>
 
 ---
 
